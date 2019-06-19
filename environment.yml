@@ -1,5 +1,6 @@
 name: widgets
 dependencies:
+  - Pillow
   - numpy
   - scipy
   - ipywidgets
