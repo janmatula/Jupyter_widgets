@@ -1,0 +1,5 @@
+name: widgets
+dependencies:
+  - numpy
+  - scipy
+  - ipywidgets
